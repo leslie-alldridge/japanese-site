@@ -1,0 +1,12 @@
+{
+  "name": "japanese",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leslie-alldridge/japanese-site.git",
+  "author": "Yuzuki-S <yuzuki.sadoh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jaco": "^2.1.0",
+    "japanese": "^1.2.0"
+  }
+}
